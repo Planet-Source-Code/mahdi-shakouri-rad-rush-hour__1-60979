@@ -1,0 +1,9 @@
+Rush Hour is a logical game ... a nice ones, that's all !!!
+The purpose of the game is to bring out the Red CAR, 
+You are able to move each CAR in straight line.
+The game has 40 standard levels. You may define your own levels too!
+I've included several levels like 2.txt and so on, you can compare
+2.txt file with level 2 to understand how you are able to define
+"User Defined Levels" ... Enjoy
+
+Mahdi Shakouri Rad    Mahdi.ShakouriRad@gmail.com  Mahdi_Rad@yahoo.com
